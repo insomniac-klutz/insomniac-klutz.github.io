@@ -3,4 +3,4 @@ Random Musings
 
 # 1 Maths 
 
-A. [Linear Algebra](MaTs/Readme.md)
+A. [Linear Algebra](MaTs/Lin_Al.md)
