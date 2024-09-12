@@ -42,9 +42,10 @@ Trace
 ![{4C0715CF-EC57-4FB6-A328-E238AF1CAAB8}](https://github.com/user-attachments/assets/3f7ab1a3-616c-445a-b37e-237cfd16e390)
 ![{154D73B1-8706-4DA3-ADD0-7783ADA2D2CF}](https://github.com/user-attachments/assets/18331ba7-ed65-4091-bac9-76b06ac5d6e0)
 
+-- ---
 
+Transpose and Inversion for Sym Mtx
 
-
-
+![{99E3BD68-547D-4C4E-9602-30A8AB725999}](https://github.com/user-attachments/assets/48f356bd-e299-460e-b82f-41305bea45ee)
 
 
