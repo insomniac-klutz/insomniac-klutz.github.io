@@ -1,6 +1,6 @@
 # 3 | Eigenvalues
 
-Affie Transformations
+Affine Transformations
 
 ![{944E9B0B-27C6-4E4E-BBBF-15C07852AEDB}](https://github.com/user-attachments/assets/e0b6b8b9-b369-4b40-bb01-0c426649160c)
 
